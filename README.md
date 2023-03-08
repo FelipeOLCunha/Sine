@@ -4,4 +4,4 @@
 
 #In other words it gives you the sine value of a angle that you must enter when running the program.
 
-#It alsos plots a graph of the sine function calculated for different N
+It also plots the calculated sine function for different maximum exponent values of the Taylor series
